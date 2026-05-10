@@ -1,4 +1,4 @@
-# Chanchu - Medical Prescription OCR System
+#Medical Prescription OCR System
 
 ## Overview
 Chanchu is a comprehensive Optical Character Recognition (OCR) system designed to read and interpret doctor's handwritten prescriptions. The system uses image preprocessing, OCR engines, and medical terminology recognition to accurately extract text from prescription images.
